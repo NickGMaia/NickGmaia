@@ -12,10 +12,9 @@ Tenho experiência em suporte técnico, análise e resolução de problemas, al�
 
 <br>
 
-
 ### 🗽English
 
-Computer Science graduate with experience in technical support and a strong interest in software development, automation, databases, and IT infrastructure.
+💻 Computer Science graduate with experience in technical support and a strong interest in software development, automation, databases, and IT infrastructure.
 
 I am constantly improving my skills through hands-on projects and continuous learning. Here you'll find applications, experiments, and projects that showcase my journey in technology and my passion for building efficient solutions.
 
