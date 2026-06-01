@@ -61,9 +61,9 @@ I am constantly improving my skills through hands-on projects and continuous lea
 
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/bomberman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/bomberman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/puzzle-bobble-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NickGMaia/NickGMaia/pacman-output/puzzle-bobble-contribution-graph.svg">
 </picture>
 
 ###
