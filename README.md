@@ -10,7 +10,10 @@ Busco constantemente aprimorar minhas habilidades por meio de estudos e projetos
 
 Tenho experiência em suporte técnico, análise e resolução de problemas, além de conhecimentos em desenvolvimento web, banco de dados e versionamento de código. Estou sempre em busca de novos desafios e oportunidades para aprender e evoluir profissionalmente.
 
-## 🗽English
+<br>
+
+
+### 🗽English
 
 Computer Science graduate with experience in technical support and a strong interest in software development, automation, databases, and IT infrastructure.
 
@@ -34,6 +37,7 @@ I am constantly improving my skills through hands-on projects and continuous lea
 <h2 align="center">🤖 Languages ​​and Technologies</h2>
 
 ###
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
@@ -67,8 +71,6 @@ I am constantly improving my skills through hands-on projects and continuous lea
 </picture>
 
 ###
-
-<br>
 <h2 align="center">Social Media</h2>
 
 ###
