@@ -2,9 +2,9 @@
 **`Desenvolvedor FullStack`**
 **`Suporte TI`**
 
-# Olá, sou Bacharel em Ciência da Computação pela FMU.
+# Olá, Bem vindo ao meu perfil! 😁
 
-💻 Profissional de tecnologia com experiência em suporte técnico e interesse em desenvolvimento de software, automação e infraestrutura.
+💻 Sou Bacharel em Ciência da Computação pela FMU. Profissional de tecnologia com experiência em suporte técnico e interesse em desenvolvimento de software, automação e infraestrutura.
 
 Busco constantemente aprimorar minhas habilidades por meio de estudos e projetos práticos. Neste perfil compartilho aplicações, experimentos e projetos desenvolvidos ao longo da minha jornada na tecnologia.
 
